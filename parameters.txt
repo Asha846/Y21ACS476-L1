@@ -1,0 +1,16 @@
+#wpwr
+def add(x,y):
+	retuen x+y
+a = add(5,10)
+print(a)
+
+
+#wpwor
+def add(a,b):
+	print(a+b)
+add(5,10)
+
+
+#wopwr
+def add():
+	a,b=5,10
